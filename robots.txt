@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://petersagri.co.uk
+Sitemap: https://petersagri.co.uk/sitemap.xml
